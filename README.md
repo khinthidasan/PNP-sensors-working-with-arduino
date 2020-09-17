@@ -11,8 +11,12 @@ Voltage Divider with Two resistors (R1 10kiloOhm , R2 7kiloOhm) is made to reduc
 
 
 Sensor Type : PNP
+
 Sensor : Sick Photoelectric sensor GL6-P1111 PNP
+
 Cable Output: THREE cables (Brown +, Blue - and Black output)
+
+
 Sensor Output : 
 Output is the voltage between 24V or Zero
 When the sensor receives the reflection from the refector, the output becomes 24V with 1023 analog signal
