@@ -18,6 +18,6 @@ Cable Output: THREE cables (Brown +, Blue - and Black output)
 
 
 Sensor Output : 
-Output is the voltage between 24V or Zero
-When the sensor receives the reflection from the refector, the output becomes 24V with 1023 analog signal
-When there is an obsacle between the sensor and the refector, the output becomes 0V with 0 or random number analog signal
+The output is the voltage between 24V or Zero.
+The output becomes 24V with 1023 analog signal when the sensor receives the reflection from the refector. 
+The output becomes 0V with 0 or random number analog signal when there is an obsacle between the sensor and the refector.
