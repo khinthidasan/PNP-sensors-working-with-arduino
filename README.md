@@ -7,7 +7,7 @@ The main challenge:
 PNP sensor is 24Voltages supply and Arduino works properly between 7 to 12Voltages. 
 
 To overcome : 
-Voltage Divider with Two resistors (R1 10kiloOhm , R2 7kiloOhm)
+Voltage Divider with Two resistors (R1 10kiloOhm , R2 7kiloOhm) , reduce sensor output 24V into arduino compatible voltage 
 
 
 Sensor Type : PNP
