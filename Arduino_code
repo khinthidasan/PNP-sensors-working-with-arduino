@@ -1,0 +1,22 @@
+void setup() {
+        
+         Serial.begin(9600);
+         pinMode(A0, INPUT);
+         pinMode(A1, INPUT);
+         pinMode(A2, INPUT);  
+      }
+      void loop() {
+       
+         int s1= analogRead(A0); 
+         int s2= analogRead(A1); 
+         int s3= analogRead(A2);
+          
+         Serial.print("Sersor1 >>");
+         Serial.println(s1);
+         Serial.print("Sersor2 >>");
+         Serial.println(s2);
+         Serial.print("Sersor3 >>");
+         Serial.println(s3);
+         delay(1000);
+      
+      }
